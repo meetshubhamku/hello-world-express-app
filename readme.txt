@@ -1,3 +1,7 @@
+Prerequisite
+- Node must be installed on the machine
+
+
 Steps to run the application
 
 1. Run command "npm install"
